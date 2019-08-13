@@ -1,0 +1,6 @@
+{
+  "dbURI": "mongodb+srv://kbas663:Kbas663_01@mernapp-lfsr2.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "MyMothertoldmenottotalkbadWords",
+  "clientId": "94214d7ee26daa488c72",
+  "clientSecret": "10f49d327d230b7a6fb769e115681ed91779ab0f"
+}
